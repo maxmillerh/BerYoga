@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>New Project</title>
+	<defs>
+		<image  width="20" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAMAAAAhxq8pAAAAAXNSR0IB2cksfwAAAH5QTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////766GkgAAACp0Uk5TABQWJ9/YHc3/0iLzVflfGttPB5yXCvZamI4EXqCmBQmlkwawnRz0DKqhefmmxAAAAHtJREFUeJxlkNcOg0AMBA+4wAKhJdQklBRS/v8H8SH5Isw+rUaWR7ZSMo67Q8rTB08yPwBCwSINxEfBQiBJtyzLiRVUTueysg6gbkxrge5iHcl1rTcA/SAc40T0PgjH40n0NbODqdnwZgfn8yXKjv/sb3+Hsck71tnNZxazygbIuUBXtwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 1" href="#img1" x="5" y="7" />
+</svg>
